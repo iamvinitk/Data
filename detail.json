@@ -8,8 +8,9 @@
       "eventco": "Anvith Alva ­ 9591722727 \nAneesha Subramanian ­ 7406115430",
       "prize": "1st place:₹2000 \n2nd place:₹1000",
       "link": "http://imojo.in/32m9pa",
-      "imageurl": "https://i.imgur.com/dpO5l6p.jpg",
-      "venue": "Basket Ball Court"
+      "imageurl": "https://i.imgur.com/LFpUrH4.jpg",
+      "venue": "Basket Ball Court",
+      "registration": "₹100"
     },
     {
       "name": "Art Hunt",
@@ -19,8 +20,9 @@
       "eventco": "Chandini Sharma - 8123919619 \nMatam Vyjayanthi - 9845229741",
       "prize": "1st place:₹3000 \n2nd place:₹1500",
       "link": "http://imojo.in/8og7s4",
-      "imageurl": "https://i.imgur.com/dpO5l6p.jpg",
-      "venue": "Basket Ball Court"
+      "imageurl": "https://i.imgur.com/UpPv2mZ.jpg",
+      "venue": "Basket Ball Court",
+      "registration": "₹200"
     },
     {
       "name": "Face Painting",
@@ -30,8 +32,9 @@
       "eventco": "Chandini Sharma - 8123919619 \nMatam Vyjayanthi - 9845229741",
       "prize": "1st place:₹2000 \n2nd place:₹1000",
       "link": "http://imojo.in/8og7s4",
-      "imageurl": "https://i.imgur.com/dpO5l6p.jpg",
-      "venue": "Basket Ball Court"
+      "imageurl": "https://i.imgur.com/ot3Z0jK.jpg",
+      "venue": "Basket Ball Court",
+      "registration": "₹200"
     },
     {
       "name": "Pictionary",
@@ -66,7 +69,7 @@
       "prize": ":1st place:₹3000 \n2nd place:₹1500",
       "link": "http://imojo.in/d86ghn",
       "imageurl": "https://i.imgur.com/qxwJScJ.png",
-      "venue":"Civil AV Hall Fourth Floor",
+      "venue": "Civil AV Hall Fourth Floor",
       "registration": "100"
     },
     {
@@ -296,7 +299,6 @@
       "imageurl": "https://i.imgur.com/XqXMsPC.png",
       "venue": "Side Stage"
     },
-
     {
       "name": "Photography",
       "1desc": "Indulge and soak yourselves in capturing unseen and Kodak moments through those lenses ,Tell the world a new story and show how badly you are bitten by the shutterbug. Through shutter up explore the new possibilities of lights and shadows and artistry at your fingertips.",
@@ -319,7 +321,6 @@
       "imageurl": "https://i.imgur.com/XqXMsPC.png",
       "venue": "Old Cdx or any AV room on Day1 and any lab equipped with computer and internet on Day 2"
     }
-
   ],
   "DANCE": [],
   "LITERARY": [],
@@ -379,7 +380,6 @@
       "imageurl": "https://i.imgur.com/XqXMsPC.png",
       "venue": "Mech AV Hall "
     }
-
   ]
 }
 
