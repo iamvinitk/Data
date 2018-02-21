@@ -33,7 +33,7 @@
       "prize": "1st place:₹2000 \n2nd place:₹1000",
       "link": "http://imojo.in/8og7s4",
       "imageurl": "https://i.imgur.com/ot3Z0jK.jpg",
-      "venue": "Basket Ball Court",
+      "venue": "BS 102",
       "registration": "₹200"
     },
     {
@@ -45,7 +45,8 @@
       "prize": "1st place:₹3000 \n2nd place:₹1500",
       "link": "http://imojo.in/5mwhq7",
       "imageurl": "https://i.imgur.com/dpO5l6p.jpg",
-      "venue": "Basket Ball Court"
+      "venue": "Mech AV Hall Second Floor",
+      "registration": "₹200"
     },
     {
       "name": "Blind Art",
@@ -56,7 +57,8 @@
       "prize": "1st place:₹2000 \n2nd place:₹1000",
       "link": "http://imojo.in/c4vxri",
       "imageurl": "https://i.imgur.com/dpO5l6p.jpg",
-      "venue": "Basket Ball Court"
+      "venue": "ME 001",
+      "registration": "₹200"
     }
   ],
   "TECH": [
